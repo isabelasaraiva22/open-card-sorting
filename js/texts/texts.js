@@ -1,9 +1,9 @@
 var texts = {
     appTitle: [ `Novo menu do Portal SAS` ],
-    introTitle: [ `Olá%userNameComma! Muito obrigada pelo seu tempo disbonibilizado para nós!` ],
+    introTitle: [ `Olá%userNameComma! Muito obrigada pela disponibilidade :)` ],
     introText: [
-        `Se você já teve alguma dificuldade em achar o que queria no menu do portal SAS, esse teste é pra você. Queremos reorganizar o menu do portal SAS de acordo com a maneira que te proporcione uma experiência cada melhor vez melhor com a gente.`,
-        `Esse teste dura em torno de <b>10 a 15 minutos</b> para ser feito. É rapidinho e vai nos ajudar muito a entregar algo incrível pra você!`,
+        `Já teve alguma dificuldade em achar algo no menu do portal SAS? Essa atividade é pra você. Queremos reorganizar o menu do portal SAS de acordo com a maneira que <b>você</b> julgar melhor.`,
+        `Essa atividade dura em torno de <b>10 a 15 minutos</b> para ser feito. É rapidinho e vai nos ajudar muito a entregar algo incrível pra você!`,
     ],
     introPreAuth: [
         `Para começar, como podemos lhe chamar?`,
@@ -14,41 +14,41 @@ var texts = {
     googleAuthConnect: [ `Conectar com Google` ],
     googleAuthConnectAs: [ `Continuar como` ],
     googleAuthDisconnect: [ `Desconectar` ],
-    sidebarTitle: [`Categorias`],
+    sidebarTitle: [`Abas`],
     sidebarSubtitle: [`%n de %n categorias agrupadas.`],
 
     newCardGroup: [`Arraste para criar um novo grupo`],
-    cardTopDivider: [`<strong>Topo</strong>: o que eu mais uso`],
-    cardBottomDivider: [`<strong>Fundo</strong>: o que eu menos uso`],
+    cardTopDivider: [`<strong>Topo</strong>: mais relevante`],
+    cardBottomDivider: [`<strong>Fundo</strong>: menos relevante`],
     cardGroupTitlePlaceholder: [`Dê um nome ao grupo`],
 
     steps: [
         {
             title: [`Passo 1`],
             text: [
-                `%userName, tá vendo os nomes das abas que existem hoje no portal aqui do lado?.`,
-                `Sua missão será organizar essas abas e agrupá-las da forma que você achar mais simples de encontrar o que você quer no nosso menu, e dar o nome que quiser para cada grupo.`,
-                `<b>Exemplo ilustrativo: Acho que o Banco de questões e o Minhas Avaliações se alinham em um mesmo objetivo de elaborar uma avaliação. Mas como uso mais o Minhas Avaliações, ele deve estar no em 1ª posição no grupo que criei.</b>`,
-                `Arraste uma das categorias para a direita para criar seu primeiro grupo.`
+                `%userName, tá vendo os nomes das abas que já existem hoje no menu do portal aqui ao lado?.`,
+                `A atividade será <b>organizar essas abas e agrupá-las</b> da forma que você achar <b>mais simples de encontrar o que você quer</b> no nosso menu.`,
+                `*Exemplo ilustrativo: Acho que o Banco de questões e o Minhas Avaliações se alinham em um mesmo objetivo, de elaborar uma avaliação. E como uso mais o Minhas Avaliações, ele deve estar no em 1ª posição no grupo que criei.`,
+                `Arraste uma das abas para a direita para criar seu primeiro grupo.`
             ]
         },
         {
             title: [`Passo 2`],
             text: [
-                `Mova as categorias ao lado até que todos estejam agrupadas. Agrupe cartões que você considera relacionados. Você pode criar quantos grupos quiser, inclusive grupos com apenas 1 categoria!`,
-                `Lembre-se, %userName: não tem certo ou errado, agora você que escolhe como montar o menu do portal SAS de acordo com o que fizer mais sentido para você!`
+                `Mova as abas ao lado até que todos estejam agrupadas. Agrupe as abas que você considera relacionadas. Você pode criar quantos grupos quiser, inclusive grupos com apenas 1 aba!`,
+                `Lembre-se, %userName: não tem certo ou errado, agora você que escolhe como montar o menu de acordo com o que fizer mais sentido para você!`
             ]
         },
         {
             title: [`Passo 3`],
             text: [
-                `Revise os grupos e <strong>dê um nome para cada um</strong> que você criou. Pense em um título que represente as categorias contidas nele.`,
+                `Revise os grupos e <strong>dê um nome para cada um</strong> que você criou. Pense em um título que represente as abas contidas nele.`,
             ]
         },
         {
             title: [`Passo 4`],
             text: [
-                `Certifique-se de ordenar as categorias mais importantes para você para cima e os que você menos usa para baixo em cada grupo.`,
+                `Certifique-se de ordenar as abas mais importantes para você para cima e os que você menos usa para baixo em cada grupo.`,
             ]
         },
         {
@@ -63,8 +63,8 @@ var texts = {
 
     endingTitle: [ `Muito obrigada %userNameComma!` ],
     endingText: [
-        `Sua participação no processo vai ajudar bastante na construção de uma experiência cada vez melhor pra você dentro do nosso portal.`,
-        `Muito obrigado por ter feito parte do processo!`,
+        `Sua participação vai ajudar bastante na construção de uma experiência cada vez melhor no nosso portal.`,
+        `Obrigado por ter feito parte do processo!`,
     ],
 
     infoButton: [ `Instruções` ],
